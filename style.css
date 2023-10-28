@@ -20,8 +20,8 @@
   }
   .container .btn{
     position: relative;
-    width: 155px;
-    height: 350px;
+    width: 255px;
+    height: 450px;
     margin: 20px;
   }
   .container .btn a{
@@ -71,9 +71,9 @@
     left: 50%;
     transform: translateX(-50%);
     bottom: -5px;
-    width: 30px;
+    width: 70px;
     height: 10px;
-    background: #f00;
+    background: #02a202;
     border-radius: 10px;
     transition: 0.5s;  
     transition-delay: 0s;
@@ -93,9 +93,9 @@
     left: 50%;
     transform: translateX(-50%);
     top: -5px;
-    width: 30px;
+    width: 70px;
     height: 10px;
-    background: #f00;
+    background: #02a202;
     border-radius: 10px;
     transition: 0.5s;  
     transition-delay: 0s;
@@ -110,8 +110,8 @@
   .container .btn:nth-child(1)::before,
   .container .btn:nth-child(1)::after
   {
-    background: #ff1f71;
-    box-shadow: 0 0 5px #ff1f71, 0 0 15px #ff1f71, 0 0 30px #ff1f71, 0 0 60px #ff1f71;
+    background: #02a202;
+    box-shadow: 0 0 5px #02a202, 0 0 15px #02a202, 0 0 30px #02a202, 0 0 60px #02a202;
   }
   .container .btn:nth-child(2)::before,
   .container .btn:nth-child(2)::after
